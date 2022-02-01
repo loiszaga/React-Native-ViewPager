@@ -44,7 +44,7 @@ yarn ios
 ## Usage
 
 ### Install from npm:
-`npm install --save @loiszaga/rn-viewpager`
+`npm install --save @shankarmorwal/rn-viewpager`
 
 ### Integrate into your app:  
 
@@ -52,7 +52,7 @@ yarn ios
 
 import {StyleSheet, View, Text} from 'react-native';
 import React, {Component} from 'react';
-import {PagerTabIndicator, IndicatorViewPager, PagerTitleIndicator, PagerDotIndicator} from '@loiszaga/rn-viewpager';
+import {PagerTabIndicator, IndicatorViewPager, PagerTitleIndicator, PagerDotIndicator} from '@shankarmorwal/rn-viewpager';
 
 export default class ViewPagerPage extends Component {
     render() {
